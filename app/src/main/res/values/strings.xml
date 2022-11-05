@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="_1_questions_list">1. Like val, variables defined with the const keyword are mutable</string>
+    <string name="_2_questions_list">2. Kotlin\'s type system is aimed at eliminating the danger of null references from code, also known as the The Billion Dollar Mistake</string>
+    <string name="true_answer">True</string>
+    <string name="false_answer">False</string>
+    <string name="i_am_not_sure">Don\'t know</string>
+    <string name="btn_reset">Reset</string>
+</resources>
